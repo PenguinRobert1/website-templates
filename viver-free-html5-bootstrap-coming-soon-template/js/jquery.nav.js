@@ -43,7 +43,7 @@
 			navHeight: 0,
             scrollSpeed: 750,
             scrollThreshold: 0.5,
-            begin: false,
+            begin: true,
             end: false,
             scrollChange: false
         },
